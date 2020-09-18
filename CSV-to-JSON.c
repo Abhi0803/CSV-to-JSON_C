@@ -159,7 +159,7 @@ void addJSON(char buf[1024], int a)
 */
 
 //---------------------------------------------Array Method----------------------------------------------//
-/*
+
 char *serialize(char datas[10][10])
 {
     // printf("%s", datas[0]);
@@ -227,4 +227,3 @@ void addJSON(char buf[1024], int a)
     free(sdata1);
     fclose(fptr);
 }
-*/
